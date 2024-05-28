@@ -20,7 +20,14 @@ public:
 	}
 };
 
-
+class lia : public seseorang {
+public:
+	// deklarasi
+	void pesan() {
+		//implementasi
+		cout << "Pesan dari lia" << endl;
+	}
+};
 
 int main() {
 
